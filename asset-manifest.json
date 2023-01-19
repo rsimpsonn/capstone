@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/capstone/static/css/main.0b377d6d.css",
+    "main.js": "/capstone/static/js/main.08fbd3c8.js",
+    "static/js/787.3ecd7fac.chunk.js": "/capstone/static/js/787.3ecd7fac.chunk.js",
+    "index.html": "/capstone/index.html",
+    "main.0b377d6d.css.map": "/capstone/static/css/main.0b377d6d.css.map",
+    "main.08fbd3c8.js.map": "/capstone/static/js/main.08fbd3c8.js.map",
+    "787.3ecd7fac.chunk.js.map": "/capstone/static/js/787.3ecd7fac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b377d6d.css",
+    "static/js/main.08fbd3c8.js"
+  ]
+}
